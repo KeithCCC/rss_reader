@@ -2,7 +2,7 @@
 # RSS reader
 ##################################################
 
-import extractrss
+#import extractrss
 from xml.etree import ElementTree
 import streamlit  as st
 import requests
